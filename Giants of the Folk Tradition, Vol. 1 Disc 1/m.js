@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Looky Looky Yonder-Black Betty-Yellow Women's Doorbells.mp3";		
+f[2]	= "02 Poor Howard-Green Corn.mp3";		
+f[3]	= "03 De Blues.mp3";		
+f[4]	= "04 The Gallis Pole.mp3";		
+f[5]	= "05 The Bourgeois Blues.mp3";		
+f[6]	= "06 Noted Rider.mp3";		
+f[7]	= "07 Big Fat Woman.mp3";		
+f[8]	= "08 Borrow Love and Go.mp3";		
+f[9]	= "09 Bring Me Li'l Water, Silvy.mp3";		
+f[10]	= "10 Julie Ann Johnson.mp3";		
+f[11]	= "11 Line 'Em.mp3";		
+f[12]	= "12 Whoa, Back, Buck (Back Band).mp3";		
+f[13]	= "13 John Hardy.mp3";		
